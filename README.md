@@ -1,6 +1,6 @@
-# Nano React App Default Javascript Template
+<img width="1191" alt="Screen Shot 2021-04-06 at 10 47 56 AM" src="https://user-images.githubusercontent.com/38469892/113676871-9b1c9f00-96c5-11eb-988f-247a1c2ac4f3.png">
 
-The default template project for [nano-react-app](https://github.com/adrianmcli/nano-react-app).
+# Tic Tac Toe React
 
 - `npm start` — This will spawn a development server with a default port of `1234`.
 - `npm run build` — This will output a production build in the `dist` directory.
